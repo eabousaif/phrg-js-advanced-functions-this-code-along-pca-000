@@ -8,3 +8,5 @@ languages:
   - javascript
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-advanced-functions-this-code-along.git

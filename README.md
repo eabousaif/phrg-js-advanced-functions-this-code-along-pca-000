@@ -430,6 +430,9 @@ We reviewed how to create and instantiate POJOs, and how `this` works for simple
 
 We learned how to *borrow* functions from other objects using `call`, `apply`, and `bind`, and how to use `bind` to make copies of functions with a new `this` and execute them later.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-this-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-this-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 - [MDN: Function.prototype.call()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - [MDN: Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
